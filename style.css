@@ -73,7 +73,6 @@ a:hover { color: var(--teal-light); }
 }
 
 .nav-brand {
-  font-family: var(--font-display);
   font-size: 1.2rem;
   font-weight: 600;
   color: #fff;
@@ -148,7 +147,6 @@ a:hover { color: var(--teal-light); }
 }
 
 .hero-name {
-  font-family: var(--font-display);
   font-size: clamp(3.5rem, 9vw, 7rem);
   font-weight: 700; color: #fff;
   line-height: 0.95; letter-spacing: -0.01em;
@@ -159,7 +157,6 @@ a:hover { color: var(--teal-light); }
 .hero-name span { color: var(--teal-light); }
 
 .hero-tagline {
-  font-family: var(--font-display);
   font-size: clamp(1.1rem, 2.5vw, 1.55rem);
   font-weight: 400; font-style: italic;
   color: rgba(255,255,255,0.55);
@@ -628,7 +625,6 @@ h3.sub-heading {
 .footer-inner { max-width: var(--max-width); margin: 0 auto; }
 
 .footer-name {
-  font-family: var(--font-display);
   font-size: 1.5rem; font-weight: 600; color: #fff; margin-bottom: 0.4rem;
 }
 
