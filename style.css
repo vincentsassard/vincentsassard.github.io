@@ -343,7 +343,7 @@ h3.sub-heading {
 .timeline-item::before {
   content: '';
   position: absolute;
-  left: -2.625rem; top: 6px;
+  left: calc(-2.25rem-4px); top: 6px;
   width: 8px; height: 8px;
   border-radius: 50%;
   background: var(--teal);
